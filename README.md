@@ -1,0 +1,2 @@
+# AI-Powered-Student-Performance-Tracking-and-Monitoring-for-Laboratories
+AI-Powered Student Performance Tracking and Monitoring for Laboratories is an intelligent analytics platform designed to evaluate and enhance student outcomes in practical sessions. It monitors attendance, experiment marks, task completion, and behavioral patterns to generate insights, risk alerts, and actionable recommendations for faculty-driven.
